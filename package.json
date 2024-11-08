@@ -11,6 +11,7 @@
     "buttons",
     "css"
   ],
+  
   "files": [
     "src/",
     "dist/"
